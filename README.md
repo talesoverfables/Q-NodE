@@ -4,4 +4,5 @@ Our vision: To create an end-to-end encrypted communication between multiple use
 
 ## Demonstration video
 
-[!(Demo and Steup)](https://www.youtube.com/watch?v=-D_1JwN-XKg&t=69s&ab_channel=PVJambur)
+[![Watch the video](https://img.youtube.com/vi/-D_1JwN-XKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=-D_1JwN-XKg&t=69s&ab_channel=PVJambur)
+
